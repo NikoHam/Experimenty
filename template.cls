@@ -6,6 +6,9 @@
 
 \RequirePackage{lipsum}
 
+% --- podpora chemických vzorců ---
+\RequirePackage[version=4]{mhchem}
+
 % --- jazyk a fonty ---
 \RequirePackage[utf8]{inputenc}
 \RequirePackage[T1]{fontenc}
