@@ -4,6 +4,8 @@
 
 \LoadClass[a4paper,12pt]{article}
 
+\RequirePackage{lipsum}
+
 % --- jazyk a fonty ---
 \RequirePackage[utf8]{inputenc}
 \RequirePackage[T1]{fontenc}
