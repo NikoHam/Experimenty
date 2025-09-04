@@ -8,6 +8,7 @@
 
 % --- podpora chemických vzorců ---
 \RequirePackage[version=4]{mhchem}
+\RequirePackage{siunitx}
 
 % --- jazyk a fonty ---
 \RequirePackage[utf8]{inputenc}
